@@ -1,5 +1,5 @@
 # visitor_count
-A sample Spark exercise to count the visitors based on given conditions. 
+A sample Spark exercise to count the visitors, based on given conditions. 
 
 # how to run
 <ol>
